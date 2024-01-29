@@ -1,9 +1,14 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw17OUkzGkCqLpexlWpGnZTT&ust=1706621097010000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD08ZTZgoQDFQAAAAAdAAAAABAD)
+<a href="https://github.com/Carzed1" align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="width:100%;">
+</a>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Karan Bhatia aka Carzed1</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carzed1&label=Profile%20views&color=0e75b6&style=flat" alt="carzed1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carzed1" alt="carzed1" /></a> </p>
